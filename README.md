@@ -1,5 +1,7 @@
 # AntiCovidList-AppKotlin-BootcampSantanderDio
 
+Aplicativo desenvolvido para o projeto final do Bootcamp Santander na Digital Innovation One. 
+
 O aplicativo é uma lista de lembretes, o objetivo é ajudar a recordar tarefas frequentes como comprar mascaras, álcool em gel, a data da próxima dose da vacina e outros.
 
 Proximos passos após o projeto inicial:
