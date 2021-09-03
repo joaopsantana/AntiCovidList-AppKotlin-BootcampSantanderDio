@@ -4,7 +4,7 @@ Aplicativo desenvolvido para o projeto final do Bootcamp Santander na Digital In
 
 O aplicativo é uma lista de lembretes, o objetivo é ajudar a recordar tarefas frequentes como comprar mascaras, álcool em gel, a data da próxima dose da vacina e outros.
 
-Proximos passos após o projeto inicial:
+Próximos passos após o projeto inicial:
 - Salvar os dados com o Room Database após o aplicativo ser fechado
 - Adicionar um campo de lembretes frequentes
 - Fazer algumas alterações no layout das datas
